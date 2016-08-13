@@ -1,5 +1,3 @@
-'use strict'
-
 module.exports = function encody(strings, ...vals) {
   let results = []
   for (let i = 0, len = vals.length; i < len; i++) {
