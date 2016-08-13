@@ -10,7 +10,7 @@
   "repository": "seangenabe/encody",
   "license": "MIT",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.0.0"
   },
   "main": "index.js",
   "keywords": [
