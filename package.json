@@ -1,6 +1,6 @@
 {
   "name": "encody",
-  "version": "1.0.0-1",
+  "version": "1.0.0",
   "description": "Tagged string helper for encodeURIComponent.",
   "scripts": {
     "test": "node test.js"
