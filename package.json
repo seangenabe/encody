@@ -1,0 +1,25 @@
+{
+  "name": "encody",
+  "version": "1.0.0-1",
+  "description": "Tagged string helper for encodeURIComponent.",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "homepage": "https://github.com/seangenabe/encody",
+  "author": "Sean Genabe <seangenabe@outlook.com>",
+  "repository": "seangenabe/encody",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "encodeURIComponent",
+    "querystring",
+    "qs",
+    "encode",
+    "url",
+    "uri",
+    "encode"
+  ]
+}
