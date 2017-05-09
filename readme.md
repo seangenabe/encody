@@ -1,5 +1,7 @@
 # encody
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seangenabe/encody.svg)](https://greenkeeper.io/)
+
 Tagged string helper for `encodeURIComponent`.
 
 [![npm](https://img.shields.io/npm/v/encody.svg?style=flat-square)](https://www.npmjs.com/package/encody)
